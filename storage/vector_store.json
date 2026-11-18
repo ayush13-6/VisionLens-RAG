@@ -1,0 +1,299 @@
+[
+  {
+    "chunk_id": "doc_sample_invoice_5513_chunk_1_2615da",
+    "doc_id": "doc_sample_invoice_5513",
+    "doc_title": "Enterprise GPU Infrastructure Invoice",
+    "text": "INVOICE & RECEIPT. Doc ID: INV-2026-9042. Date: November 18, 2026. Billed To: CloudTech Solutions Inc. Payment Terms: Net 30 Days. Line Items: 1. NVIDIA H100 GPU Cloud Compute (120 Hours at $4.50/hr): $540.00. 2. Vector Database Managed Cluster (1 unit): $250.00. 3. OpenCV Vision Inference Pipeline (1 unit): $180.00. 4. Ollama Local LLM Endpoint Setup (1 unit): $150.00. 5. Enterprise Support Tier: $80.00. Financial Summary: Subtotal is $1,200.00. Tax (8.5%) is $102.00. TOTAL DUE is $1,302.00. Authorized Signature: A. Sharma. Contact: billing@cloudtech.ai",
+    "source_image": "C:\\Users\\ayush\\Downloads\\Rag-agent\\storage\\processed_images\\sample_invoice_rectified.png",
+    "visual_metadata": {
+      "chunk_index": 1,
+      "region_id": 1,
+      "region_type": "header",
+      "bbox": {
+        "x": 36,
+        "y": 48,
+        "w": 366,
+        "h": 40
+      },
+      "normalized_bbox": {
+        "ymin": 0.048,
+        "xmin": 0.045,
+        "ymax": 0.088,
+        "xmax": 0.5025
+      },
+      "aspect_ratio": 9.15,
+      "visual_stats": {
+        "resolution": "800x1000",
+        "brightness": 248.02,
+        "contrast": 32.38,
+        "edge_density": 0.0346,
+        "quality_rating": "Medium"
+      }
+    },
+    "created_at": null
+  },
+  {
+    "chunk_id": "doc_sample_architecture_6901_chunk_1_942df4",
+    "doc_id": "doc_sample_architecture_6901",
+    "doc_title": "VisionLens-RAG System Architecture & Benchmarks",
+    "text": "VisionLens-RAG Multimodal Agent Architecture Specification. Pipeline components: 1. OpenCV Vision Layer: 4-Point Perspective Warp, Bilateral Denoising Filter, Otsu & Adaptive Binarization. 2. Multimodal Vector Store: Spatial Layout Chunking, Sublinear TF-IDF + Cosine Similarity, Hybrid Re-ranking. 3. Ollama LLM Agent: Local Llama3 / Mistral, Grounded Context Prompting, Offline Deterministic Fallback. Performance Benchmarks: Processing Latency: OpenCV deskew and binarization takes 12ms per 1080p frame. Retrieval Accuracy: 96.4% Top-1 Precision using hybrid spatial re-ranking. Memory Footprint: Under 85MB total RAM overhead for vision and vector indexing. Privacy: 100% on-premise execution with zero cloud data egress.",
+    "source_image": "C:\\Users\\ayush\\Downloads\\Rag-agent\\storage\\processed_images\\sample_architecture_rectified.png",
+    "visual_metadata": {
+      "chunk_index": 1,
+      "region_id": 1,
+      "region_type": "header",
+      "bbox": {
+        "x": 0,
+        "y": 0,
+        "w": 1000,
+        "h": 99
+      },
+      "normalized_bbox": {
+        "ymin": 0.0,
+        "xmin": 0.0,
+        "ymax": 0.1414,
+        "xmax": 1.0
+      },
+      "aspect_ratio": 10.1,
+      "visual_stats": {
+        "resolution": "1000x700",
+        "brightness": 214.94,
+        "contrast": 74.75,
+        "edge_density": 0.0585,
+        "quality_rating": "High"
+      }
+    },
+    "created_at": null
+  },
+  {
+    "chunk_id": "doc_sample_invoice_3469_chunk_1_62def1",
+    "doc_id": "doc_sample_invoice_3469",
+    "doc_title": "Invoice Unit Test",
+    "text": "TOTAL DUE: $1,302.00 for CloudTech Solutions Inc.",
+    "source_image": "C:\\Users\\ayush\\Downloads\\Rag-agent\\storage\\processed_images\\sample_invoice_rectified.png",
+    "visual_metadata": {
+      "chunk_index": 1,
+      "region_id": 1,
+      "region_type": "header",
+      "bbox": {
+        "x": 36,
+        "y": 48,
+        "w": 366,
+        "h": 40
+      },
+      "normalized_bbox": {
+        "ymin": 0.048,
+        "xmin": 0.045,
+        "ymax": 0.088,
+        "xmax": 0.5025
+      },
+      "aspect_ratio": 9.15,
+      "visual_stats": {
+        "resolution": "800x1000",
+        "brightness": 248.02,
+        "contrast": 32.38,
+        "edge_density": 0.0346,
+        "quality_rating": "Medium"
+      }
+    },
+    "created_at": null
+  },
+  {
+    "chunk_id": "doc_sample_invoice_9585_chunk_1_27e986",
+    "doc_id": "doc_sample_invoice_9585",
+    "doc_title": "Enterprise GPU Infrastructure Invoice",
+    "text": "INVOICE & RECEIPT. Doc ID: INV-2026-9042. Date: November 18, 2026. Billed To: CloudTech Solutions Inc. Payment Terms: Net 30 Days. Line Items: 1. NVIDIA H100 GPU Cloud Compute (120 Hours at $4.50/hr): $540.00. 2. Vector Database Managed Cluster (1 unit): $250.00. 3. OpenCV Vision Inference Pipeline (1 unit): $180.00. 4. Ollama Local LLM Endpoint Setup (1 unit): $150.00. 5. Enterprise Support Tier: $80.00. Financial Summary: Subtotal is $1,200.00. Tax (8.5%) is $102.00. TOTAL DUE is $1,302.00. Authorized Signature: A. Sharma. Contact: billing@cloudtech.ai",
+    "source_image": "C:\\Users\\ayush\\Downloads\\Rag-agent\\storage\\processed_images\\sample_invoice_rectified.png",
+    "visual_metadata": {
+      "chunk_index": 1,
+      "region_id": 1,
+      "region_type": "header",
+      "bbox": {
+        "x": 36,
+        "y": 48,
+        "w": 366,
+        "h": 40
+      },
+      "normalized_bbox": {
+        "ymin": 0.048,
+        "xmin": 0.045,
+        "ymax": 0.088,
+        "xmax": 0.5025
+      },
+      "aspect_ratio": 9.15,
+      "visual_stats": {
+        "resolution": "800x1000",
+        "brightness": 248.02,
+        "contrast": 32.38,
+        "edge_density": 0.0346,
+        "quality_rating": "Medium"
+      }
+    },
+    "created_at": null
+  },
+  {
+    "chunk_id": "doc_sample_architecture_7364_chunk_1_ad936d",
+    "doc_id": "doc_sample_architecture_7364",
+    "doc_title": "VisionLens-RAG System Architecture & Benchmarks",
+    "text": "VisionLens-RAG Multimodal Agent Architecture Specification. Pipeline components: 1. OpenCV Vision Layer: 4-Point Perspective Warp, Bilateral Denoising Filter, Otsu & Adaptive Binarization. 2. Multimodal Vector Store: Spatial Layout Chunking, Sublinear TF-IDF + Cosine Similarity, Hybrid Re-ranking. 3. Ollama LLM Agent: Local Llama3 / Mistral, Grounded Context Prompting, Offline Deterministic Fallback. Performance Benchmarks: Processing Latency: OpenCV deskew and binarization takes 12ms per 1080p frame. Retrieval Accuracy: 96.4% Top-1 Precision using hybrid spatial re-ranking. Memory Footprint: Under 85MB total RAM overhead for vision and vector indexing. Privacy: 100% on-premise execution with zero cloud data egress.",
+    "source_image": "C:\\Users\\ayush\\Downloads\\Rag-agent\\storage\\processed_images\\sample_architecture_rectified.png",
+    "visual_metadata": {
+      "chunk_index": 1,
+      "region_id": 1,
+      "region_type": "header",
+      "bbox": {
+        "x": 0,
+        "y": 0,
+        "w": 1000,
+        "h": 99
+      },
+      "normalized_bbox": {
+        "ymin": 0.0,
+        "xmin": 0.0,
+        "ymax": 0.1414,
+        "xmax": 1.0
+      },
+      "aspect_ratio": 10.1,
+      "visual_stats": {
+        "resolution": "1000x700",
+        "brightness": 214.94,
+        "contrast": 74.75,
+        "edge_density": 0.0585,
+        "quality_rating": "High"
+      }
+    },
+    "created_at": null
+  },
+  {
+    "chunk_id": "doc_sample_invoice_1226_chunk_1_4bcd84",
+    "doc_id": "doc_sample_invoice_1226",
+    "doc_title": "Enterprise GPU Infrastructure Invoice",
+    "text": "INVOICE & RECEIPT. Doc ID: INV-2026-9042. Date: November 18, 2026. Billed To: CloudTech Solutions Inc. Payment Terms: Net 30 Days. Line Items: 1. NVIDIA H100 GPU Cloud Compute (120 Hours at $4.50/hr): $540.00. 2. Vector Database Managed Cluster (1 unit): $250.00. 3. OpenCV Vision Inference Pipeline (1 unit): $180.00. 4. Ollama Local LLM Endpoint Setup (1 unit): $150.00. 5. Enterprise Support Tier: $80.00. Financial Summary: Subtotal is $1,200.00. Tax (8.5%) is $102.00. TOTAL DUE is $1,302.00. Authorized Signature: A. Sharma. Contact: billing@cloudtech.ai",
+    "source_image": "C:\\Users\\ayush\\Downloads\\Rag-agent\\storage\\processed_images\\sample_invoice_rectified.png",
+    "visual_metadata": {
+      "chunk_index": 1,
+      "region_id": 1,
+      "region_type": "header",
+      "bbox": {
+        "x": 36,
+        "y": 48,
+        "w": 366,
+        "h": 40
+      },
+      "normalized_bbox": {
+        "ymin": 0.048,
+        "xmin": 0.045,
+        "ymax": 0.088,
+        "xmax": 0.5025
+      },
+      "aspect_ratio": 9.15,
+      "visual_stats": {
+        "resolution": "800x1000",
+        "brightness": 248.02,
+        "contrast": 32.38,
+        "edge_density": 0.0346,
+        "quality_rating": "Medium"
+      }
+    },
+    "created_at": null
+  },
+  {
+    "chunk_id": "doc_sample_architecture_2209_chunk_1_5e0430",
+    "doc_id": "doc_sample_architecture_2209",
+    "doc_title": "VisionLens-RAG System Architecture & Benchmarks",
+    "text": "VisionLens-RAG Multimodal Agent Architecture Specification. Pipeline components: 1. OpenCV Vision Layer: 4-Point Perspective Warp, Bilateral Denoising Filter, Otsu & Adaptive Binarization. 2. Multimodal Vector Store: Spatial Layout Chunking, Sublinear TF-IDF + Cosine Similarity, Hybrid Re-ranking. 3. Ollama LLM Agent: Local Llama3 / Mistral, Grounded Context Prompting, Offline Deterministic Fallback. Performance Benchmarks: Processing Latency: OpenCV deskew and binarization takes 12ms per 1080p frame. Retrieval Accuracy: 96.4% Top-1 Precision using hybrid spatial re-ranking. Memory Footprint: Under 85MB total RAM overhead for vision and vector indexing. Privacy: 100% on-premise execution with zero cloud data egress.",
+    "source_image": "C:\\Users\\ayush\\Downloads\\Rag-agent\\storage\\processed_images\\sample_architecture_rectified.png",
+    "visual_metadata": {
+      "chunk_index": 1,
+      "region_id": 1,
+      "region_type": "header",
+      "bbox": {
+        "x": 0,
+        "y": 0,
+        "w": 1000,
+        "h": 99
+      },
+      "normalized_bbox": {
+        "ymin": 0.0,
+        "xmin": 0.0,
+        "ymax": 0.1414,
+        "xmax": 1.0
+      },
+      "aspect_ratio": 10.1,
+      "visual_stats": {
+        "resolution": "1000x700",
+        "brightness": 214.94,
+        "contrast": 74.75,
+        "edge_density": 0.0585,
+        "quality_rating": "High"
+      }
+    },
+    "created_at": null
+  },
+  {
+    "chunk_id": "doc_sample_invoice_6128_chunk_1_54ed07",
+    "doc_id": "doc_sample_invoice_6128",
+    "doc_title": "Enterprise GPU Infrastructure Invoice",
+    "text": "INVOICE & RECEIPT. Doc ID: INV-2026-9042. Date: November 18, 2026. Billed To: CloudTech Solutions Inc. Payment Terms: Net 30 Days. Line Items: 1. NVIDIA H100 GPU Cloud Compute (120 Hours at $4.50/hr): $540.00. 2. Vector Database Managed Cluster (1 unit): $250.00. 3. OpenCV Vision Inference Pipeline (1 unit): $180.00. 4. Ollama Local LLM Endpoint Setup (1 unit): $150.00. 5. Enterprise Support Tier: $80.00. Financial Summary: Subtotal is $1,200.00. Tax (8.5%) is $102.00. TOTAL DUE is $1,302.00. Authorized Signature: A. Sharma. Contact: billing@cloudtech.ai",
+    "source_image": "C:\\Users\\ayush\\Downloads\\Rag-agent\\storage\\processed_images\\sample_invoice_rectified.png",
+    "visual_metadata": {
+      "chunk_index": 1,
+      "region_id": 1,
+      "region_type": "header",
+      "bbox": {
+        "x": 36,
+        "y": 48,
+        "w": 366,
+        "h": 40
+      },
+      "normalized_bbox": {
+        "ymin": 0.048,
+        "xmin": 0.045,
+        "ymax": 0.088,
+        "xmax": 0.5025
+      },
+      "aspect_ratio": 9.15,
+      "visual_stats": {
+        "resolution": "800x1000",
+        "brightness": 248.02,
+        "contrast": 32.38,
+        "edge_density": 0.0346,
+        "quality_rating": "Medium"
+      }
+    },
+    "created_at": null
+  },
+  {
+    "chunk_id": "doc_sample_architecture_6094_chunk_1_92061a",
+    "doc_id": "doc_sample_architecture_6094",
+    "doc_title": "VisionLens-RAG System Architecture & Benchmarks",
+    "text": "VisionLens-RAG Multimodal Agent Architecture Specification. Pipeline components: 1. OpenCV Vision Layer: 4-Point Perspective Warp, Bilateral Denoising Filter, Otsu & Adaptive Binarization. 2. Multimodal Vector Store: Spatial Layout Chunking, Sublinear TF-IDF + Cosine Similarity, Hybrid Re-ranking. 3. Ollama LLM Agent: Local Llama3 / Mistral, Grounded Context Prompting, Offline Deterministic Fallback. Performance Benchmarks: Processing Latency: OpenCV deskew and binarization takes 12ms per 1080p frame. Retrieval Accuracy: 96.4% Top-1 Precision using hybrid spatial re-ranking. Memory Footprint: Under 85MB total RAM overhead for vision and vector indexing. Privacy: 100% on-premise execution with zero cloud data egress.",
+    "source_image": "C:\\Users\\ayush\\Downloads\\Rag-agent\\storage\\processed_images\\sample_architecture_rectified.png",
+    "visual_metadata": {
+      "chunk_index": 1,
+      "region_id": 1,
+      "region_type": "header",
+      "bbox": {
+        "x": 0,
+        "y": 0,
+        "w": 1000,
+        "h": 99
+      },
+      "normalized_bbox": {
+        "ymin": 0.0,
+        "xmin": 0.0,
+        "ymax": 0.1414,
+        "xmax": 1.0
+      },
+      "aspect_ratio": 10.1,
+      "visual_stats": {
+        "resolution": "1000x700",
+        "brightness": 214.94,
+        "contrast": 74.75,
+        "edge_density": 0.0585,
+        "quality_rating": "High"
+      }
+    },
+    "created_at": null
+  }
+]
